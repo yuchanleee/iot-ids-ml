@@ -1,0 +1,11 @@
+# 데이터 파일 제외
+*.csv
+*.zip
+*.h5
+*.npy
+*.parquet
+
+
+# 파이썬 및 코랩 임시 실행 파일
+__pycache__/
+.ipynb_checkpoints/
